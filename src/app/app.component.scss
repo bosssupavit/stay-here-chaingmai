@@ -1,0 +1,53 @@
+img {
+    position: relative;
+    ;
+    z-index: 300;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
+.menu-padding {
+    padding-top: 30vh
+}
+
+mat-sidenav {
+    position: fixed !important;
+    height: 100 vh;
+    overflow: hidden;
+
+    @media only screen and (max-width: 1000px) {
+
+        width: 100vw;
+    }
+
+    width: 40vw;
+}
+
+.mat-drawer-backdrop {
+    height: 100vh;
+}
+
+@media (max-width: 576px) {
+    .check-display {
+        display: none;
+    }
+
+    .menu-padding {
+        padding-top: 10vh
+    }
+
+}
+
+
+
+.sidenav {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.with-icon {
+    display: flex;
+    align-items: center;
+}

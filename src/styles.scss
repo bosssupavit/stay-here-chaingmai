@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; font-family: Prompt, "Helvetica Neue", sans-serif;}
+
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import "~@angular/material/theming";
+
+
+
+$custom-typography: mat-typography-config(
+  $font-family: "Prompt"
+);
+
+// Override typography for all Angular Material, including mat-base-typography and all components.
+@include angular-material-typography($custom-typography);
+
+// Override the typography in the core CSS.
+@include mat-core($custom-typography);
+
+
+.slick-dots li.slick-active button:before {
+    font-size: 15px;
+}
+
+button:focus { outline: none; }
+
+*:focus { outline: none; }
+

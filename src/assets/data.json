@@ -1,0 +1,202 @@
+[
+    {
+        "name": "image001.jpg",
+        "date": "2015:07:02 19:52:01",
+        "preview_xxs": {
+            "path": "../../assets/2.JPG",
+            "width": 500,
+            "height": 375
+        },
+        "preview_xs": {
+            "path": "../../assets/2.JPG",
+            "width": 1024,
+            "height": 768
+        },
+        "preview_s": {
+            "path": "../../assets/2.JPG",
+            "width": 1440,
+            "height": 1080
+        },
+        "preview_m": {
+            "path": "../../assets/2.JPG",
+            "width": 2133,
+            "height": 1600
+        },
+        "preview_l": {
+            "path": "../../assets/2.JPG",
+            "width": 2880,
+            "height": 2160
+        },
+        "preview_xl": {
+            "path": "../../assets/2.JPG",
+            "width": 3840,
+            "height": 2880
+        },
+        "raw": {
+            "path": "../../assets/2.JPG",
+            "width": 4000,
+            "height": 3000
+        },
+        "dominantColor": "#7e8659"
+    },
+    {
+        "name": "image002.JPG",
+        "date": "2015:02:27 23:49:03",
+        "preview_xxs": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 672,
+            "height": 504
+        },
+        "preview_xs": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 807,
+            "height": 605
+        },
+        "preview_s": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 746,
+            "height": 1080
+        },
+        "preview_m": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 1008,
+            "height": 756
+        },
+        "preview_l": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 1344,
+            "height": 1008
+        },
+        "preview_xl": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 2016,
+            "height": 1512
+        },
+        "raw": {
+            "path": "../../assets/6_Coffee.JPG",
+            "width": 4032,
+            "height": 3024
+        },
+        "dominantColor": "#74725a"
+    },
+    {
+        "name": "image002.JPG",
+        "date": "2015:02:27 23:49:03",
+        "preview_xxs": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 180,
+            "height": 226
+        },
+        "preview_xs": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 216,
+            "height": 271
+        },
+        "preview_s": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 270,
+            "height": 338
+        },
+        "preview_m": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 1008,
+            "height": 756
+        },
+        "preview_l": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 360,
+            "height": 451
+        },
+        "preview_xl": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 540,
+            "height": 676
+        },
+        "raw": {
+            "path": "../../assets/7.garden.JPG",
+            "width": 1080,
+            "height": 1351
+        },
+        "dominantColor": "#74725a"
+    },
+    {
+        "name": "image002.JPG",
+        "date": "2015:02:27 23:49:03",
+        "preview_xxs": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 155,
+            "height": 155
+        },
+        "preview_xs": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 180,
+            "height": 180
+        },
+        "preview_s": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 216,
+            "height": 216
+        },
+        "preview_m": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 270,
+            "height": 270
+        },
+        "preview_l": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 360,
+            "height": 360
+        },
+        "preview_xl": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 540,
+            "height": 540
+        },
+        "raw": {
+            "path": "../../assets/9.dormroomJPG.jpg",
+            "width": 1080,
+            "height": 1080
+        },
+        "dominantColor": "#74725a"
+    },
+    {
+        "name": "image002.JPG",
+        "date": "2015:02:27 23:49:03",
+        "preview_xxs": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 155,
+            "height": 120
+        },
+        "preview_xs": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 180,
+            "height": 135
+        },
+        "preview_s": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 216,
+            "height": 162
+        },
+        "preview_m": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 270,
+            "height": 203
+        },
+        "preview_l": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 360,
+            "height": 270
+        },
+        "preview_xl": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 540,
+            "height": 405
+        },
+        "raw": {
+            "path": "../../assets/8.privateroom.JPG",
+            "width": 1080,
+            "height": 809
+        },
+        "dominantColor": "#74725a"
+    }
+]

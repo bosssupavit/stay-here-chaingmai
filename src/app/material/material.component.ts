@@ -2,12 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { NgxUiLoaderService } from 'ngx-ui-loader';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  selector: 'app-material',
+  templateUrl: './material.component.html',
+  styleUrls: ['./material.component.scss']
 })
-export class AppComponent implements OnInit {
-  title = 'projectOutsource';
+export class MaterialComponent implements OnInit {
+
   constructor(private ngxService: NgxUiLoaderService) { }
 
   ngOnInit() {
@@ -16,6 +16,6 @@ export class AppComponent implements OnInit {
     setTimeout(() => {
       this.ngxService.stop(); // stop foreground spinner of the master loader with 'default' taskId
     }, 250);
-
   }
+
 }
